@@ -1,0 +1,2 @@
+Sample of C program illustrating how to get input from the
+main function.
