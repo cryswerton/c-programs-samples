@@ -1,0 +1,7 @@
+A sample of code to show how to create and insert your own headers in your
+C programs.
+
+For those of you who don't know what a header is in C programming, here's
+an exampe:
+
+#include "myhead.h"
